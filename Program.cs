@@ -33,12 +33,12 @@ namespace Service_Access_Verifier
                     }
                 }
             }
-            if (args[0] == "/write")
+            if (args[0] == "/writeTextFile")
             {
 
             }
 
-            if (args[0] == "/check")
+            if (args[0] == "/readTextFile")
             {
 
             }
